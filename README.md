@@ -108,10 +108,6 @@ Created browser extensions, map viewers, reverse proxies, VPN configurations, de
   <img src="https://streak-stats.demolab.com?user=slnnzmtl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=slnnzmtl&theme=tokyo-night&hide_border=true)
-
 ## Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kazansky/)
