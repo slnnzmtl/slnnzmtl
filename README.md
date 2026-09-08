@@ -14,17 +14,19 @@
 
 ## Featured Projects
 
-### 🤖 [LangGraph Personal Assistant](https://github.com/slnnzmtl/langgraph-personal-assistant)
-
-A Telegram-based personal assistant (OpenClaw-like) built as a pnpm workspace with LangGraph and a reusable supervisor framework. The system routes conversations to specialized runtime agents for finance, Obsidian and more.
-
-### 🤖 [LangGraph Supervisor Expert Bootstrap](https://github.com/slnnzmtl/langgraph-supervisor-expert-bootstrap)
-
-A reusable LangGraph supervisor framework for building multi-agent systems with expert routing and specialized worker agents. Perfect for creating scalable AI applications with clear separation of concerns.
+Production LangGraph multi-agent systems: a reusable supervisor runtime plus two applied products on the same Telegram / Gemini / MCP stack.
 
 ### 🤖 [LangGraph Appointment Bot](https://github.com/slnnzmtl/langgraph-appointment-bot)
 
-An intelligent appointment scheduling bot built with LangGraph, handling conversation flows, CRM integrations, and automated confirmation workflows.
+**Applied clinic product.** Telegram clinic assistant that answers FAQ and books, moves, or cancels visits in EspoCRM with human-in-the-loop confirmation.
+
+### 🤖 [LangGraph Personal Assistant](https://github.com/slnnzmtl/langgraph-personal-assistant)
+
+**Applied personal system.** Single-user Telegram assistant that routes finance, notes, and configuration work through a reusable LangGraph supervisor runtime.
+
+### 🤖 [LangGraph Supervisor Expert Bootstrap](https://github.com/slnnzmtl/langgraph-supervisor-expert-bootstrap)
+
+**Reusable framework.** LangGraph supervisor–expert runtime for packing specialized agents, capabilities, cron, and skills into multi-agent systems.
 
 ### 🧱 [Generative SEO Site Builder](https://github.com/slnnzmtl/directus-site-builder)
 
