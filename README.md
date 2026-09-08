@@ -34,10 +34,6 @@ Web platform for automatic generation of SEO optimized pages with a visual build
 
 Interactive map viewer for KML files with geographic visualization and data exploration capabilities.
 
-### 💰 [Ethereum Fundraiser Platform](https://github.com/slnnzmtl/etherium-fundriser-platform)
-
-A blockchain-based fundraising platform built with Ethereum, enabling decentralized crowdfunding campaigns.
-
 ### 🌍 [Volunteer & Humanitarian Platform](https://github.com/i-want-to-help-ukraine/i-want-to-help-ukraine-website)
 
 Contributed to a distributed platform for coordinating volunteers and humanitarian activities.
