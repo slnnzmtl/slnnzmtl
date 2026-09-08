@@ -14,15 +14,13 @@
 
 ## Featured Projects
 
-Production LangGraph multi-agent systems on the same Telegram / Gemini / MCP stack: a clinic booking product and a personal automation assistant.
-
 ### 🤖 [LangGraph Appointment Bot](https://github.com/slnnzmtl/langgraph-appointment-bot)
 
-**Applied clinic product.** Telegram clinic assistant that answers FAQ and books, moves, or cancels visits in EspoCRM with human-in-the-loop confirmation.
+Telegram clinic assistant that answers FAQ and books, moves, or cancels visits in EspoCRM with human-in-the-loop confirmation.
 
 ### 🤖 [LangGraph Personal Assistant](https://github.com/slnnzmtl/langgraph-personal-assistant)
 
-**Applied personal system.** Single-user Telegram assistant that routes finance, notes, and configuration work through a reusable LangGraph supervisor runtime.
+Single-user Telegram assistant that routes finance, notes, and configuration work through a reusable LangGraph supervisor runtime.
 
 ### 🧱 [Generative SEO Site Builder](https://github.com/slnnzmtl/directus-site-builder)
 
