@@ -14,7 +14,7 @@
 
 ## Featured Projects
 
-Production LangGraph multi-agent systems: a reusable supervisor runtime plus two applied products on the same Telegram / Gemini / MCP stack.
+Production LangGraph multi-agent systems on the same Telegram / Gemini / MCP stack: a clinic booking product and a personal automation assistant.
 
 ### 🤖 [LangGraph Appointment Bot](https://github.com/slnnzmtl/langgraph-appointment-bot)
 
@@ -23,10 +23,6 @@ Production LangGraph multi-agent systems: a reusable supervisor runtime plus two
 ### 🤖 [LangGraph Personal Assistant](https://github.com/slnnzmtl/langgraph-personal-assistant)
 
 **Applied personal system.** Single-user Telegram assistant that routes finance, notes, and configuration work through a reusable LangGraph supervisor runtime.
-
-### 🤖 [LangGraph Supervisor Expert Bootstrap](https://github.com/slnnzmtl/langgraph-supervisor-expert-bootstrap)
-
-**Reusable framework.** LangGraph supervisor–expert runtime for packing specialized agents, capabilities, cron, and skills into multi-agent systems.
 
 ### 🧱 [Generative SEO Site Builder](https://github.com/slnnzmtl/directus-site-builder)
 
