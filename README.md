@@ -4,7 +4,7 @@
 
 I build production AI applications that turn LLMs into reliable product capabilities—not standalone chat demos. My work connects agents to APIs, CRMs, databases, messaging platforms, and human approval workflows, then wraps them in full-stack experiences people can actually use.
 
-I bring 5+ years of commercial product-engineering experience across marketplace, SaaS, analytics, CRM, and e-commerce systems. Most recently, I worked as a long-term contractor embedded in Upwork's Reputation team, contributing to high-impact product areas at marketplace scale. That background shapes how I build AI products: with strong UX, maintainable architecture, automated testing, authorization boundaries, observability, and operational reliability.
+I bring 8+ years of commercial product-engineering experience across marketplace, SaaS, analytics, CRM, and e-commerce systems. Most recently, I worked as a long-term contractor embedded in Upwork's Reputation team, contributing to high-impact product areas at marketplace scale. That background shapes how I build AI products: with strong UX, maintainable architecture, automated testing, authorization boundaries, observability, and operational reliability.
 
 ## What I Build
 
