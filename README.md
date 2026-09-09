@@ -23,9 +23,9 @@ A multilingual Telegram appointment assistant connected to EspoCRM. It handles F
 
 A modular multi-agent platform that routes finance, notes, configuration, and scheduling tasks through supervisor and specialist agents. It combines LangGraph orchestration with MCP integrations, persistence, runtime configuration, and broad automated test coverage.
 
-### 🛡️ [Telegram Message Cleaner](https://github.com/slnnzmtl/telegram-message-cleaner)
+### 🧱 [Directus Website Builder](https://github.com/slnnzmtl/directus-website-builder)
 
-A safety-first Python automation tool for finding and removing Telegram messages by chat, sender, keyword, and date. Destructive actions are protected by default dry runs, explicit confirmations, rate handling, filters, and automated tests.
+A reusable Directus and Nuxt platform for agencies to build block-based, multilingual websites. It combines visual editing, SSR/ISR revalidation, custom CMS extensions, PostgreSQL, Redis, Docker, and optional AI-assisted page generation.
 
 ### 🎧 [Rekordbox Playlist Converter](https://github.com/slnnzmtl/rekordbox-playlist-converter)
 
